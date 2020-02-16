@@ -1,16 +1,5 @@
 # chat_ui
 
-A new Flutter project.
+This app dose not have any logic code in it and does not have any FireBase integretion in it too, this is just a simple chat app design. and can be used in case of real life situations too, if you want to implement it in a real app.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](https://github.com/quiet-programmer/flutter_chat_ui/blob/master/ss/Screenshot_20200216-182703.png)
